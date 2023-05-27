@@ -1,5 +1,5 @@
 # RFM-Analysis-and-Customer-Segmentation
-Developed dashboards to visualize EDA, RFM analysis and Customer Segmentation (RFM quartiles and ML) leveraging previous customer data.
+Developed dashboards to visualize EDA, RFM analysis and Customer Segmentation (RFM quartiles and ML) leveraging previous customer's purchase history data.
 
  • **data/** contains the entire data required for the analysis. <br>
  • **notebooks/** contains the notebooks for EDA, RFM analysis and Customer Segmentation. <br>
