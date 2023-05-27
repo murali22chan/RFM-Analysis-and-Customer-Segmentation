@@ -1,0 +1,7 @@
+Segment,RFM,Description
+Best Customers,444,"Brought most recently, most often and spends the most"
+Loyal Customers,4X4,Buy more frequently
+Big Spenders,44X,Spends the most
+Almost Lost,244,"Havent purchased recently, but purchased frequently and spends the most"
+Lost Customers,144,"Havent purchased recently, but purchased frequently and spends the most"
+Lost Cheat Customers,111,"Last purchase long ago, purchased few and spent little"
